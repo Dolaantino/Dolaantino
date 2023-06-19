@@ -17,8 +17,13 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :telescope: I am a student at School 21 (Sber programming school).
 
-- :seedling: Exploring Technical Content Writing.
+- :smiley_cat:  I have pet projects in C/C++, python, java (backend);
+can make pages(HTML,CSS, JS);
+know how to work with databases (PostgresSQL);
+familiar with QT, Makefile, git;
+wrote bash scripts.
 
-- :zap: In my free time, I solve algorithmic task's, read technical articles and books, do boxing, go to the gym, sometimes watch anime.
+- :zap: In my free time, I solve algorithmic task's, read technical articles and books, do boxing, go to the gym, do yoga, like to ride a horse, like ride a bicycle, sometimes watch anime.
+
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-swishkaska-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/swishkaska)
