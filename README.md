@@ -22,9 +22,3 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - :zap: In my free time, I solve algorithmic task's, read technical articles and books, do boxing, go to the gym, sometimes watch anime.
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-swishkaska-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/swishkaska)
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
