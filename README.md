@@ -17,7 +17,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :telescope: I am a student at School 21 (Sber programming school).
 
-- :smiley_cat:  I have pet projects in C/C++, python, java (backend);
+- :smiley_cat:  I have pet projects in Swift(SwiftUI, UIkit), C/C++;
 can make pages(HTML,CSS, JS);
 know how to work with databases (PostgresSQL);
 familiar with QT, Makefile, git;
